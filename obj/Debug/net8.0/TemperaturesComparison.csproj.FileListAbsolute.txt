@@ -1,0 +1,14 @@
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/bin/Debug/net8.0/TemperaturesComparison
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/bin/Debug/net8.0/TemperaturesComparison.deps.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/bin/Debug/net8.0/TemperaturesComparison.runtimeconfig.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/bin/Debug/net8.0/TemperaturesComparison.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/bin/Debug/net8.0/TemperaturesComparison.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/obj/Debug/net8.0/TemperaturesComparison.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/obj/Debug/net8.0/TemperaturesComparison.AssemblyInfoInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/obj/Debug/net8.0/TemperaturesComparison.AssemblyInfo.cs
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/obj/Debug/net8.0/TemperaturesComparison.csproj.CoreCompileInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/obj/Debug/net8.0/TemperaturesComparison.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/obj/Debug/net8.0/refint/TemperaturesComparison.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/obj/Debug/net8.0/TemperaturesComparison.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/obj/Debug/net8.0/TemperaturesComparison.genruntimeconfig.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/TemperaturesComparison/obj/Debug/net8.0/ref/TemperaturesComparison.dll
